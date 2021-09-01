@@ -6,7 +6,7 @@ import 'point_handler_adpator.dart';
 import 'package:flutter/material.dart';
 import 'animation_manager.dart';
 
-/// a widget can trigger animation with slide behavior when slide percentage reached
+/// A widget can trigger animation with slide behavior when slide percentage reached
 /// the [AnimationController]'s trigger value.
 ///
 /// This widget is used for multi [TriggerValWithControllerEntry] which is combined
